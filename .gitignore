@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data & models
+train/
+test/
+*.h5
+*.keras
+models/
+logs/
+dog-breed-identification.zip
+preds_array.csv
+sample_submission.csv
+
+# Colab / Drive
+.DS_Store
+
